@@ -18,7 +18,10 @@ I am passionate about IT :blush:, I always try to be up to date with new technol
 I always give store points to my tasks (1 to 5) this indicates an estimate of the difficulty level and how long it will take to be completed, then sort my tasks by priority (lowest to highest), Ah! and if a task is to complex, I break it down into check-lists, Trello and Jira are my best friends on doing this, but sometimes i like to write it down on paper, cuz I love the feeling in crossing out a task when it's completed!
 
 ### Tools & Skills  
-Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems (SQL Server, MongoDB,  Google Cloud Firestore) | Jest | Git | BitBucket | AWS (S3 Bucket, Simple Email Service)
+- Node JS | - Express JS | - Typescript
+- React JS | - Next JS | - Data Managment Systems (SQL Server, MongoDB,  Google Cloud Firestore) 
+- Jest | - Git | - BitBucket | - AWS (S3 Bucket, Simple Email Service)
+          
  </div>
      <div><img align="right" src='https://boulaid.net/Content/Themes/Marvel/images/undraw/undraw_software_engineer_lvl5.svg' alt='developer'></div>
      
