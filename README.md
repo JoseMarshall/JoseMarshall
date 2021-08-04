@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm  **Josemar Hebo**;
 #### I am a Back-end Developer
-![I am a Back-end Developer](https://res.cloudinary.com/olyn/image/upload/v1628028324/1555150_uwtucq.png)
+![I am a Back-end Developer](https://res.cloudinary.com/olyn/image/upload/v1628038634/1555150_uwtucq.png)
 
 ## Glad to see you here! ![Profile views](https://gpvc.arturio.dev/JoseMarshall)
 
@@ -34,11 +34,12 @@ Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems 
 
 
 
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)             
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/Marshall#3876)  
+[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)               [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/Marshall#3876)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark=count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+     <div style="align: left;">![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark&count_private=true)</div><div style="align: right;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</div>
+</div>
+
 
 
 
