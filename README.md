@@ -38,9 +38,11 @@ Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems 
 
 
 
-<div style="display: flex;">
-     <div style="margin-right: 30px;"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark&count_private=true) </div>
-     <div style="margin-left: 30px; align= right;">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) </div>
+<div style="display: flex;"> 
+     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark&count_private=true)
+     <div style="margin-left: 30px; align= right;">  
+          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+     </div>
 </div>
                
 
