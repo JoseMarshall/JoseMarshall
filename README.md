@@ -6,8 +6,8 @@
 
 ### About Me!
 I am passionate about IT :blush:, I always try to be up to date with new technologies  :computer:; it may seem strange, but I have fun when I have a problem at hand :dizzy_face: and then I solve it  have to solve it by writing code (I love it), I don't rest until there are results :chart_with_upwards_trend:. I highly value teamwork :fist:, as synergy allows combining people's strengths to more easily achieve objectives. If you'are interested on learn more about me, take a look on my [**resume**](https://drive.google.com/file/d/1dalIijFU8ep6IxeehFIyTvqHu0G0aCTJ/view?usp=sharing)
-<div>
-     <div>
+<div style="display: flex;">
+     <div style="align: left;">
 ### My Values
 - :wink: Wiling to share what I know, and admit when I dont know
 - :sunglasses: Cabable of self-management
@@ -28,15 +28,15 @@ Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:  I had to learn javascript in less than 2 months because I was going to participate in a project where the team decided it had to be javascript, and I'm glad it did, because then I didn't stop, and today JS is my brush :art:. 
      </div>
-     [<img src='https://boulaid.net/Content/Themes/Marvel/images/undraw/undraw_software_engineer_lvl5.svg' alt='developer'>](https://github.com/JoseMarshall) 
+     <div><img align="right" src='https://boulaid.net/Content/Themes/Marvel/images/undraw/undraw_software_engineer_lvl5.svg' alt='developer'></div>
 </div>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseMarshall)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)  
-     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/Marshall#3876)  
+[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg' alt='github' height='40'>](https://github.com/JoseMarshall)              [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)             [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/Marshall#3876)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
