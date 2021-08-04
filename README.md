@@ -19,7 +19,9 @@ I always give store points to my tasks (1 to 5) this indicates an estimate of th
 
 ### Tools & Skills  
 Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems (SQL Server, MongoDB,  Google Cloud Firestore) | Jest | Git | BitBucket | AWS (S3 Bucket, Simple Email Service)
-
+ </div>
+     <div><img align="right" src='https://boulaid.net/Content/Themes/Marvel/images/undraw/undraw_software_engineer_lvl5.svg' alt='developer'></div>
+     
 ## Talking about personal stuffs
 - 🔭 I’m currently working on a personal project: a [**virtual-wallet**](https://github.com/JoseMarshall/virtual-wallet-test) 
 - 🌱 I’m currently learning **SOLID** design pattern 
@@ -27,16 +29,16 @@ Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems 
 - 📫 How to reach me: :email: hebojosemar@gmail.com :telephone_receiver:+244930869023 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:  I had to learn javascript in less than 2 months because I was going to participate in a project where the team decided it had to be javascript, and I'm glad it did, because then I didn't stop, and today JS is my brush :art:. 
-     </div>
-     <div><img align="right" src='https://boulaid.net/Content/Themes/Marvel/images/undraw/undraw_software_engineer_lvl5.svg' alt='developer'></div>
+    
 </div>
 
 
 
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg' alt='github' height='40'>](https://github.com/JoseMarshall)              [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)             [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/Marshall#3876)  
+[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)             
+[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/Marshall#3876)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark=count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
