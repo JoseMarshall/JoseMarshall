@@ -30,19 +30,15 @@ Node JS | Express JS | Typescript | React JS | Next JS | Data Managment Systems 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:  I had to learn javascript in less than 2 months because I was going to participate in a project where the team decided it had to be javascript, and I'm glad it did, because then I didn't stop, and today JS is my brush :art:. 
     
- [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40' style='margin-right: 20px;'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)               [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40' style='margin-left: 10px;'>](https://discordapp.com/users/Marshall#3876)  
+ [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josemar-c-hebo-2125b8147/)                    [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40' style='margin-left: 10px;'>](https://discordapp.com/users/Marshall#3876)  
 
 </div>
 
 
 
-
-
-<div style="display: flex;"> 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarshall&show_icons=true&theme=vision-friendly-dark&count_private=true)                                                                                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarshall&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
      
-</div>
+
                
 
 
