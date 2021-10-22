@@ -5,7 +5,7 @@
 ## Glad to see you here! ![Profile views](https://gpvc.arturio.dev/JoseMarshall)
 
 ### About Me!
-I am passionate about IT :blush:, I always try to be up to date with new technologies  :computer:; it may seem strange, but I have fun when I have a problem at hand :dizzy_face: and then I solve it  have to solve it by writing code (I love it), I don't rest until there are results :chart_with_upwards_trend:. I highly value teamwork :fist:, as synergy allows combining people's strengths to more easily achieve objectives. If you'are interested on learn more about me, take a look on my [**resume**](https://drive.google.com/file/d/1dalIijFU8ep6IxeehFIyTvqHu0G0aCTJ/view?usp=sharing)
+I am passionate about IT :blush:, I always try to be up to date with new technologies  :computer:; it may seem strange, but I have fun when I have a problem at hand :dizzy_face: and then I solve it  have to solve it by writing code (I love it), I don't rest until there are results :chart_with_upwards_trend:. I highly value teamwork :fist:, as synergy allows combining people's strengths to more easily achieve objectives. If you'are interested on learn more about me, take a look on my [**resume**](https://drive.google.com/file/d/1oy0Vq_VXklzazle3bcECcuAa0YYUfhz0/view?usp=sharing)
 <div style="display: flex;">
      <div style="align: left;">
 ### My Values
