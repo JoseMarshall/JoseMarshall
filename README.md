@@ -22,9 +22,6 @@ Solidity | Ganache | Remix | Truffle | IPFS |
 Metamask| Web3.js | @taikai/dappkit | 
 Data Managment Systems (SQL Server, MongoDB,  Google Cloud Firestore) 
 Jest | Git | BitBucket | AWS (S3 Bucket, Simple Email Service)
-          
- </div>
-     <div><img align="right" src='https://boulaid.net/Content/Themes/Marvel/images/undraw/undraw_software_engineer_lvl5.svg' alt='developer'></div>
      
 ## Contact
 - 💬 Ask me about anything... I'm open to discuss any topic 
